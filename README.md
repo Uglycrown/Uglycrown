@@ -1,5 +1,5 @@
 <h2> Hi, I'm Gourav Singh!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"></h2>
+<img align='right' src="https://cdn.pixabay.com/photo/2015/09/16/08/55/online-942408_960_720.jpg" width="230"></h2>
 <img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif]" width="230">
 <p><em>Education <a href="https://www.youtube.com/channel/UCe7EQzf_oV1HDRBCMUiN7DQ)">Bachelor of Computer Science</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Learning & Exploring Myself <a href="https://www.youtube.com/channel/UCe7EQzf_oV1HDRBCMUiN7DQ)">Works</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
