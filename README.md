@@ -13,7 +13,7 @@
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
+  pronouns: "he" | "him",
   code: [Javascript,  HTML, CSS, C, Python, Java],
   tools: [React, Redux, Node, Styled-Components, firebase, Docker],
  
