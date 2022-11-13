@@ -4,9 +4,8 @@
 </em></p>
 
 [![Twitter: Uglycrown1](https://img.shields.io/twitter/follow/uglycrown1)](https://twitter.com/uglycrown1)
-[![Youtube: Uglycrown](https://img.shields.io/youtube/channel/subscribers/UCe7EQzf_oV1HDRBCMUiN7DQ?style=social)]
-(https://www.youtube.com/channel/UCe7EQzf_oV1HDRBCMUiN7DQ))
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Youtube: Uglycrown](https://img.shields.io/youtube/channel/subscribers/UCe7EQzf_oV1HDRBCMUiN7DQ?style=social)](https://www.youtube.com/channel/UCe7EQzf_oV1HDRBCMUiN7DQ))
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)(https://github.com/Thaiane)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
