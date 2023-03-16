@@ -14,8 +14,8 @@
 ```javascript
 const thai = {
   pronouns: "he" | "him",
-  code: [Javascript,  HTML, CSS, C, Python, Java],
-  tools: [React, Redux, Node, Styled-Components, firebase, Docker],
+  code: [Javascript,  HTML, CSS, C, Python, Java, Typescript,],
+  tools: [React, Angular, Redux, Node, Styled-Components, firebase, Docker],
  
  
  challenge: "I am doing the #100DaysOfCode challenge focused on DSA & Open Source"
